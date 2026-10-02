@@ -8,3 +8,4 @@
 4. [Commitment and Consistency](Principle4CommitmentConsistency.md)
 5. [Liking](Principle5Liking.md)
 6. [Social Proof](Principle6SocialProof.md)
+7. [Unity](Principle7Unity.md)
